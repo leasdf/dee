@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @LegendBoy_XD
+# @legendDeepanshu
 
 import os
 import time
@@ -49,7 +49,7 @@ async def generate_custom_thumbnail(bot, update):
     if update.from_user.id not in Config.AUTH_USERS:
         await bot.send_message(
             chat_id=update.chat.id,
-            text="Buy The Subscriptions From @LegendBoy_XD To Get Access Of Advanced Features Of This Bot",
+            text="Buy The Subscriptions From @legendDeepanshu To Get Access Of Advanced Features Of This Bot",
             reply_to_message_id=update.message_id,
         )
         return
@@ -71,7 +71,7 @@ async def save_photo(bot, update):
     if update.from_user.id not in Config.AUTH_USERS:
         await bot.send_message(
             chat_id=update.chat.id,
-            text="Buy The Subscriptions From @LegendBoy_XD To Get Access Of Advanced Features Of This Bot",
+            text="Buy The Subscriptions From @legendDeepanshu To Get Access Of Advanced Features Of This Bot",
             reply_to_message_id=update.message_id,
         )
         return

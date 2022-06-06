@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @LegendBoy_XD
+# @legendDeepanshu
 
 import os
 import math

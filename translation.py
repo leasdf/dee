@@ -12,7 +12,7 @@ class Translation(object):
 │
 ├🔹👥 **Bot Support:** [Support](https://t.me/lakshyajeepw2023freeh)
 │
-├🔸🔔 **Bot Updates:** [Update](https://t.me/LegendBot_AI)
+├🔸🔔 **Bot Updates:** [Update](https://t.me/lakshyajeepw2023freeh)
 │
 ╰──────[ 😎 ]───────────⍟
 """
@@ -67,7 +67,7 @@ class Translation(object):
         "📤UploadinG📤 \n\n To  gofile.io \nPlease Wait 5-6 Min According to Size"
     )
 
-    AFTER_GET_GOFILE_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n<b>File MD5 Checksum :</b> <code>{}</code>\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\n Valid untill 10 days of inactivity\nJoin : @LegendBot_AI"
+    AFTER_GET_GOFILE_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n<b>File MD5 Checksum :</b> <code>{}</code>\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\n Valid untill 10 days of inactivity\nJoin : @lakshyajeepw2023freeh"
 
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media(Photo, Video , Song) to get High Speed Direct Download Link"
 
@@ -178,7 +178,7 @@ This is a Telegram Bot Which can do many functions.
 
 /help for more details..
 
-JOIN : https://t.me/LegendBot_AI\n\nThanks To @LegendBoy_XD
+JOIN : https://t.me/lakshyajeepw2023freeh\n\nThanks To @legendDeepanshu
 """
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."

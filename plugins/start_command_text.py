@@ -29,8 +29,8 @@ async def start(client, message):
     bot_uptime = time.strftime("%Hh %Mm %Ss", time.gmtime(time.time() - bot_start_time))
     joinButton = InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton("JOIN", url="https://t.me/LegendBot_AI")],
-            [InlineKeyboardButton("Query", url="https://t.me/LegendBot_OP")],
+            [InlineKeyboardButton("JOIN", url="https://t.me/lakshyajeepw2023freeh")],
+            [InlineKeyboardButton("Query", url="https://t.me/lakshyajee12thpw2023discussion")],
         ]
     )
     welcomed = f"Hi <b>{message.from_user.first_name}</b>\nThis is Bot Advanced Features Bot Officially Made By @LegendBot_XD.\n\n♦️ Click Here :- /help To Get How To Use\n⚜ Bot Uptime : {bot_uptime}"

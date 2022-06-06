@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @LegendBoy_XD
+# @legendDeepanshu
 import os
 import time
 import psutil
@@ -84,8 +84,8 @@ async def start(bot, update):
     bot_uptime = time.strftime("%Hh %Mm %Ss", time.gmtime(time.time() - bot_start_time))
     joinButton = InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton("JOIN", url="https://t.me/LegendBot_AI")],
-            [InlineKeyboardButton("Try", url="https://t.me/LegendBot_OP")],
+            [InlineKeyboardButton("JOIN", url="https://t.me/lakshyajeepw2023freeh")],
+            [InlineKeyboardButton("Try", url="https://t.me/lakshyajee12thpw2023discussion")],
         ]
     )
     # https://git.io/Jye7k

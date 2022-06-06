@@ -37,5 +37,5 @@ python bot.py
 - clearffmpegmedia - 🗑️Use this command to delete saved media in the bot.
 - deletethumbnail - Use this command to delete thumbnails.
 
-Thanks To @LegendBoy_XD
+Thanks To @legendDeepanshu
 

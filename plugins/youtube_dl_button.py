@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @LegendBoy_XD
+# @legendDeepanshu
 
 import os
 import json
@@ -403,9 +403,9 @@ async def youtube_dl_call_back(bot, update):
             """media_album_p = []
             if images is not None:
                 i = 0
-                caption = "JOIN : https://t.me/LegendBot_AI \n For the List of Telegram Bots"
+                caption = "JOIN : https://t.me/lakshyajeepw2023freeh \n For the List of Telegram Bots"
                 if is_w_f:
-                    caption = "/upgrade to Plan D to remove the watermark\nJOIN : https://t.me/LegendBot_AI \n For the List of Telegram Bots"
+                    caption = "/upgrade to Plan D to remove the watermark\nJOIN : https://t.me/lakshyajeepw2023freeh \n For the List of Telegram Bots"
                 for image in images:
                     if os.path.exists(image):
                         if i == 0:

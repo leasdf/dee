@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @LegendBoy_XD
+# @legendDeepanshu
 
 import os
 import json
@@ -43,13 +43,13 @@ async def echo(bot, update):
     if update.from_user.id not in Config.AUTH_USERS:
         await bot.send_messages(
             chat_id=update.chat.id,
-            text="Buy The Subscriptions From @LegendBoy_XD To Use This Command",
+            text="Buy The Subscriptions From @legendDeepanshu To Use This Command",
             reply_to_message_id=update.message_id,
         )
         return
     user_idss = update.from_user.id
     if user_idss in Config.BANNED_USERS:
-        await update.reply_text("You are B A N N E D 🤣🤣🤣🤣 Contact @LegendBoy_XD")
+        await update.reply_text("You are B A N N E D 🤣🤣🤣🤣 Contact @legendDeepanshu")
         return
     update_channel = Config.UPDATE_CHANNEL
     if update_channel:
@@ -75,7 +75,7 @@ async def echo(bot, update):
             return
         except Exception:
             await update.reply_text(
-                "Something Wrong. Contact my Support Group :- @LegendBot_OP"
+                "Something Wrong. Contact my Support Group :- @lakshyajee12thpw2023discussion"
             )
             return
     idd_m = " " + str(update.message_id)
