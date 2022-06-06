@@ -2,7 +2,7 @@ class Translation(object):
     INFO = f"""
 ╭────[ **🔅File DRM Video Bot🔅**]────⍟
 │
-├🔸👨‍💻 **Developer:** [LegendBoy](https://t.me/LegendBoy_XD)
+├🔸👨‍💻 **Developer:** [LegendBoy](https://t.me/legendDeepanshu)
 │
 ├🔸📝 **Language:** [Python3](https://www.python.org)
 │
@@ -10,7 +10,7 @@ class Translation(object):
 │
 ├🔹📡 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔹👥 **Bot Support:** [Support](https://t.me/LegendBot_OP)
+├🔹👥 **Bot Support:** [Support](https://t.me/lakshyajeepw2023freeh)
 │
 ├🔸🔔 **Bot Updates:** [Update](https://t.me/LegendBot_AI)
 │
