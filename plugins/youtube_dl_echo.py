@@ -56,7 +56,7 @@ async def echo(bot, update):
     file_name = None
     if "d1d34p8vz63oiq" in url:
         url = url.replace("d1d34p8vz63oiq", "d3nzo6itypaz07")
-    elif "|" in url
+    elif "|" in url:
         url_parts = url.split("|")
         if len(url_parts) == 2:
             url = url_parts[0]
