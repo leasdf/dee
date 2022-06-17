@@ -9,7 +9,7 @@ requests
 psutil
 tgcrypto
 youtube-dl
-yt-dlp
+git+https://github.com/yt-dlp/yt-dlp
 olefile
 speedtest-cli
 filetype
