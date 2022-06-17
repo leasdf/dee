@@ -12,7 +12,7 @@ services:
       UPDATE_CHANNEL: $UPDATE_CHANNEL
       DEF_THUMB_NAIL_VID_S: $DEF_THUMB_NAIL_VID_S
       CHUNK_SIZE: $CHUNK_SIZE
-      HTTP_PROXY: $UPSTREAM_REPO
+      HTTP_PROXY: $HTTP_PROXY
     resources:
       cpu: 1000m
       memory: 3Gi
