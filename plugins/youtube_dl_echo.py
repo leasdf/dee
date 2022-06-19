@@ -95,7 +95,7 @@ async def echo(bot, update):
                 url = url[o : o + l]
     if Config.HTTP_PROXY != "":
         command_to_exec = [
-            "yt-dlp",
+            "youtube-dl",
             "--no-warnings",
             "--youtube-skip-dash-manifest",
             "-j",
@@ -105,7 +105,7 @@ async def echo(bot, update):
         ]
     elif "/shorts/" in url:
         command_to_exec = [
-            "yt-dlp",
+            "youtube-dl",
             "--no-warnings",
             "--youtube-skip-dash-manifest",
             "-j",
@@ -363,7 +363,6 @@ async def echo(bot, update):
         )
         reply_markup = InlineKeyboardMarkup(inline_keyboard)
         await chk.delete()
-        # time.sleep(1)
         await bot.send_message(
             chat_id=update.chat.id,
             text=Translation.FORMAT_SELECTION.format(""),
